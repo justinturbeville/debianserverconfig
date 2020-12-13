@@ -1,7 +1,4 @@
 #!/bin/bash
-
-#Configuration script for Debian 10 servers
-
 apt update -y
 apt upgrade -y
 apt install open-vm-tools -y
