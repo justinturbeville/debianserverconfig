@@ -8,3 +8,4 @@ echo 'deb http://deb.debian.org/debian buster-backports main' > \
 apt update -y
 apt install -t buster-backports cockpit -y
 apt install curl -y
+apt install htop -y
